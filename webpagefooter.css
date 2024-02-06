@@ -1,0 +1,44 @@
+footer{
+    height: 50%;
+    background-color: rgb(41, 40, 40);
+    padding: 20px ;
+}
+.container-row{
+    max-width: 100%;
+    margin: auto;
+    display: flex;
+}
+h4{
+    display: inline-block;
+    border-bottom: 2px solid red;
+    margin-bottom: 18px;
+    font-size: 18;
+    font-weight: bolder;
+    color: white;
+    text-transform: capitalize;
+    
+}
+.footer-col{
+   margin-left:170px;
+   
+}
+a{
+    text-transform: capitalize;
+    color: aliceblue;
+    text-decoration: none;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+ul{
+    list-style-type: none;
+}
+ul li a:hover{
+    color: aqua;
+  
+}
+ul li{
+    margin: 20px;
+    margin-left: -10px;
+}
+i{
+    width: 30px;
+}
